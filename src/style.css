@@ -1,10 +1,15 @@
 body {
+    /*
     font-family: -apple-system,BlinkMacSystemFont,
                 "Segoe UI",Helvetica,Arial,sans-serif,
-                "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+                "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; */
+    font-family: Candara;
     font-size: 14 px;
+    font-color: white;
     line-height: 1.5;
     color: #24292e;
+    background-color: #3F3138;
 }
+
 
     
